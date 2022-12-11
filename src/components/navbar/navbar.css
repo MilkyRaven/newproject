@@ -17,8 +17,7 @@
 }
 
 .project__navbar-links_logo img {
-    width: 62.56px;
-    height: 16.02px;
+    width: 70px;
 }
 
 .project__navbar-links_container {
@@ -50,7 +49,7 @@
 .project__navbar-menu_container button {
     padding: 1rem 2rem;
     color: #fff;
-    background: #ff4820;
+    background: #2DB2FF;
     font-family: var(--font-family);
     font-size: 18px;
     line-height: 25px;

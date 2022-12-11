@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import './navbar.css';
 
-import logo from '../../assets/logo.svg';
+import plexi from '../../assets/plexi.png';
 
 //check BEM -> Blocl Element Modifier
 const Menu = () => (
@@ -20,7 +20,7 @@ function Navbar() {
     <div className='project__navbar'>
       <div className='project__navbar-links'>
         <div className='project__navbar-links_logo'>
-          <img src={logo} alt="logo" />
+          <img src={plexi} alt="logo" />
         </div>
         <div className='project__navbar-links_container'>
           <Menu />
